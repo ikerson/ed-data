@@ -12,7 +12,7 @@ There are three notebooks and three datasets.
 
 * `international_edu_stats.ipynb` contains code for pulling raw data from data.oecd.org and building a comprehensive dataset, `full_educational_data.csv`.
 * `international_ed_explore.ipynb` contains exploratory analysis of the `full_educational_data.csv` file. The notebook includes histograms, bar plots, a correlation heatmap, and feature importance scores calculated with the xgboost random forest algorithm.
-* `international_ed_pca.ipynb` contains 2-factor and 3-fact primary component analysis (PCA) and visualizations for the educational data with PISA math scores as the dependent variable.
+* `international_ed_pca.ipynb` contains 2-factor and 3-factor primary component analysis (PCA) and visualizations for the educational data with PISA math scores as the dependent variable.
 
 ### Datasets
 
